@@ -1,0 +1,5 @@
+pillow
+numpy == 1.26.4
+black
+pre-commit
+pyright
