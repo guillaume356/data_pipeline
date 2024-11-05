@@ -5,10 +5,26 @@ from typing import Final
 
 
 class ImageProcessor:
+    """Classe pour redimensionner les images et ajouter un padding afin de les rendre carrées."""
+
     def __init__(self, folder: str) -> None:
+        """
+        Initialise une instance de la classe ImageProcessor.
+
+        Args:
+            folder (str): Chemin vers le dossier contenant les images à traiter.
+        """
         self.folder: Final[str] = folder
 
     def process_folder(self, destination_size: int) -> None:
+        """
+        Traverse le dossier d images et traite chaque image en la redimensionnant et en ajoutant
+        un padding pour la rendre carrée.
+        Sauvegarde les images traitées dans un dossier unique avec la date.
+
+        Args:
+            destination_size (int): Taille de l image de destination
+        """
         dataset_path: Final[str] = os.path.join(os.getcwd(), "datasets")
         if not os.path.exists(dataset_path):
             os.makedirs(dataset_path)
@@ -32,6 +48,15 @@ class ImageProcessor:
 
     @staticmethod
     def is_image_file(filename: str) -> bool:
+        """
+        Vérifie si un fichier est une image en fonction de son extension.
+
+        Args:
+            filename (str): Nom du fichier à vérifier.
+
+        Returns:
+            bool: True si le fichier est une image, sinon False.
+        """
         image_extensions: Final[tuple] = (".png", ".jpg", ".jpeg")
         return filename.lower().endswith(image_extensions)
 
@@ -39,6 +64,15 @@ class ImageProcessor:
     def resize_and_pad_image(
         img: Image.Image, destination_size: int, output_path: str
     ) -> None:
+        """
+        Redimensionne l'image pour obtenir un format carré.
+        Sauvegarde l'image à l'emplacement spécifié.
+
+        Args:
+            img (Image.Image): Image à redimensionner et à remplir.
+            destination_size (int): Taille de l'image de destination.
+            output_path (str): Chemin de sauvegarde de l'image traitée.
+        """
         width: int = img.width
         height: int = img.height
         aspect_ratio: float = width / height
