@@ -5,7 +5,6 @@ repos:
     -   id: check-added-large-files
         args: ['--maxkb=3000']
     -   id: trailing-whitespace
-    -   id: end-of-file-fixer
     -   id: check-yaml
     -   id: check-ast
     -   id: check-case-conflict

@@ -5,148 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8662c491-b8ea-47d2-acf4-5dffd1d09739" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/data_pipeline.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000049.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000061.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000064.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000071.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000072.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000073.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000074.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000077.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000078.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000081.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000089.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000092.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000094.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000113.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000136.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000142.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000143.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000144.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000149.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000151.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000154.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000164.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000194.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000196.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000201.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000208.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000247.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000257.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000260.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000263.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000283.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000307.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000308.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000309.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000312.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000315.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000321.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000322.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000326.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000328.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000332.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000338.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000349.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000357.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000359.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000360.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000368.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000370.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000382.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000384.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000387.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000389.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000394.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000395.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000397.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000415.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000419.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000428.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000431.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000436.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000438.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000443.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000446.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000450.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000459.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000472.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000474.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000486.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000488.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000490.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000491.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000502.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000508.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000510.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000514.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000520.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000529.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000531.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000532.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000536.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000540.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000542.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000544.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000560.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000562.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000564.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000569.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000572.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000575.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000581.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000584.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000589.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000590.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000595.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000597.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000599.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000605.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000612.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000620.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000623.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000625.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000626.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000629.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000634.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000636.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000641.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000643.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_images/000000000650.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image_processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pre-commit-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guillaume356&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guillaume356/data_pipeline.git&quot;,
+    &quot;accountId&quot;: &quot;125ef077-fd0e-4dc8-b1e1-7deaa4d8eada&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -169,9 +43,9 @@
   &quot;keyToString&quot;: {
     &quot;Python.main.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Guillaume/PycharmProjects/data_pipeline&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
   <component name="RecentsManager">
