@@ -38,12 +38,12 @@ class ImageProcessor:
             if os.path.isfile(file_path) and self.is_image_file(filename):
                 try:
                     with Image.open(file_path) as img:
-                        print(f"Ouvrir l'image : {filename}")
+                        print(f"Ouvrir l image : {filename}")
                         output_path: str = os.path.join(output_folder, filename)
                         self.resize_and_pad_image(img, destination_size, output_path)
                 except Exception as e:
                     print(
-                        f"Erreur lors de l'ouverture ou du traitement de l'image {filename}: {e}"
+                        f"Erreur lors de l'ouverture ou du traitement de l image {filename}: {e}"
                     )
 
     @staticmethod
@@ -65,13 +65,13 @@ class ImageProcessor:
         img: Image.Image, destination_size: int, output_path: str
     ) -> None:
         """
-        Redimensionne l'image pour obtenir un format carré.
-        Sauvegarde l'image à l'emplacement spécifié.
+        Redimensionne l image pour obtenir un format carré.
+        Sauvegarde l image à l emplacement spécifié.
 
         Args:
             img (Image.Image): Image à redimensionner et à remplir.
-            destination_size (int): Taille de l'image de destination.
-            output_path (str): Chemin de sauvegarde de l'image traitée.
+            destination_size (int): Taille de l image de destination.
+            output_path (str): Chemin de sauvegarde de l image traitée.
         """
         width: int = img.width
         height: int = img.height
